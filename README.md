@@ -67,7 +67,7 @@
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFjNGh2MWZmeGdwYXc4MXUxZjA2ZjB2dXlxenJvdDZ5aXppNWludiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P03MGIhi9WUzk9iOnY/giphy.gif" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
